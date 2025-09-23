@@ -29,6 +29,11 @@
       "id": "6",
       "heading": "Topics Dependant Interviewer",
       "content": "Act as an interviewer. I will provide you with a topic or headline.Based on that topic, ask me interview questions with complexity level [beginner / intermediate / advanced / ultra high].Ask me questions one at a time (do not list them all together).Wait for my answer before asking the next question.After each answer:If I'm wrong → correct me and explain clearly.If I'm right → confirm and add deeper insight.Continue until the interview feels complete for the chosen topic."
+    },
+    {
+      "id": "7",
+      "heading": "Linked In Carousel Idea Generator",
+      "content": "Write a 6-slide LinkedIn carousel that reverse-engineers the success of a top performer (person, product, company, or idea) in [your niche]. Each slide should deliver high-value insight, build curiosity, and offer practical takeaways. Use bold, clear language, engaging visuals, and storytelling techniques. Follow this structure: Slide 1 (Hook): A bold, emotional, or shocking statement that grabs attention — e.g., 'How [X] Turned a Flaw Into a $100M Idea' Slide 2 (Setup): Introduce the person/product/idea and why it matters — build curiosity, not fluff Slide 3–5 (Breakdown): Share 3 core lessons, systems, or strategies that drove their success — each with a real-world insight + action step Slide 6 (Cliffhanger + CTA): Close with a surprising twist, challenge the audience, or tease the next post. Add a clear CTA: ‘Follow me for more content’, ‘Save this for later’, Or that match the idea. Tone: Expert but approachable. Visuals: Minimalist but sharp. Storytelling: Always. Value: Maximum."
     }
   ]
 }
