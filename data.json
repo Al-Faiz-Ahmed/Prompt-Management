@@ -52,8 +52,8 @@
     },
     {
       "id": "11",
-      "heading": "Boolean Search For Linkedin Jobs and Posts",
-      "content": "You are a Boolean search and recruitment expert. Your task is to create a highly effective and customized Boolean search string for Linkedin Jobs based on my experience and preferences. The Boolean string should: -Be specifically optimized for the Linkedin job search bar. .Include the most relevant job titles, keywords, and skills based on my background. -Exclude irrelevant roles, seniority levels, or industries thot don't match my profile. Be concise enough to return a healthy volume of results (not overly narrow), yet targeted enough to filter out noise. Use proper LinkedIn search operators like: OR for job title variations AND for essential skills or industries NOT for exclusions Double Quotation marks for exact matches Parentheses () for logical grouping"
+      "heading": "Resume Chain From J Chinese",
+      "content": " 1. Paste your resume + job description. prompt start here (Pull every phrase this company uses to describe success. List them next to my closest matching bullet points). 2. Ask me clarifying questions to help rewrite my bullet points using their exact language. Don't lie about what I did, optimize how I describe it. 3. Score the language overlap between my new resume and the job description as a percentage. Flag anything below 60%."
     },
     {
       "id": "12",
