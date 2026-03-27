@@ -59,6 +59,11 @@
       "id": "12",
       "heading": "ATS Based Resume Checker",
       "content": "Act as the most advanced ATS (Applicant Tracking System) used by Fortune 500 companies. Scan my updated resume with these criteria: TECHNICAL SCANNING: - File format compatibility issues - Font and formatting problems that cause parsing errors - Section headers that ATS might not recognize - Also scan my resume for better results and provide score"
+    },
+    {
+      "id": "13",
+      "heading": "Resume Verbs and Buzzwords Filteration",
+      "content": "Find every week low agency verb and buzzwords in this resume Replace each one with a strong action verb that shows ownership and direct impact. Highlight the issues and give me clear point to update."
     }
   ]
 }
